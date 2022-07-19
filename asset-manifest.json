@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/digital-biz-card/static/css/main.2f5c4cfe.css",
+    "main.js": "/digital-biz-card/static/js/main.5afeacc6.js",
+    "static/media/profile-pic.png": "/digital-biz-card/static/media/profile-pic.27bd857c3ffb2739d1d1.png",
+    "static/media/ig-icon.svg": "/digital-biz-card/static/media/ig-icon.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
+    "static/media/github-icon.svg": "/digital-biz-card/static/media/github-icon.23d6dfa78140e8017f08351385915806.svg",
+    "static/media/twitter-icon.svg": "/digital-biz-card/static/media/twitter-icon.3f40423293e1813898c7e26f729a0705.svg",
+    "index.html": "/digital-biz-card/index.html",
+    "static/media/linkedin.svg": "/digital-biz-card/static/media/linkedin.629bf92ee99b6aa01a5c2869b2d41378.svg",
+    "static/media/fb-icon.svg": "/digital-biz-card/static/media/fb-icon.00c353d38f22d18d3ff0962f9ce66f43.svg",
+    "static/media/Mail.svg": "/digital-biz-card/static/media/Mail.341d1e767b26e2540702fb63676d4501.svg",
+    "main.2f5c4cfe.css.map": "/digital-biz-card/static/css/main.2f5c4cfe.css.map",
+    "main.5afeacc6.js.map": "/digital-biz-card/static/js/main.5afeacc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f5c4cfe.css",
+    "static/js/main.5afeacc6.js"
+  ]
+}
